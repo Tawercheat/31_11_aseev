@@ -2,7 +2,7 @@ app:
   name: demo-app
   port: 8080
 database:
-  host: localhost
+  host: locahost
   port: 5432
 logging:
   level: warn
