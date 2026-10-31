@@ -6,4 +6,8 @@ database:
   port: 5432
 logging:
   level: warn
+auth:
+  enabled: true
+  method: jwt
+
 
