@@ -6,3 +6,6 @@ database:
   port: 5432
 logging:
   level: info
+auth:
+  enabled: true
+  method: jwt
